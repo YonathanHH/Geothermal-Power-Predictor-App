@@ -2,7 +2,7 @@
 
 This repository contains the **Geothermal Power Output Predictor**, a Streamlit application that estimates geothermal well power generation (MWe) from reservoir and well properties. The project is based on a physics-informed synthetic geothermal dataset and includes both the deployment app and the Jupyter notebook workflow used for data preparation, model training, and evaluation.
 
-Find my dataset here **[Dataset Repositry](https://github.com/YonathanHH/Synthetic-Geothermal-Dataset)
+Find my dataset here **[Dataset Repositry](https://github.com/YonathanHH/Synthetic-Geothermal-Dataset)**
 
 ## ✨ Highlights
 
