@@ -24,7 +24,7 @@ Find my dataset here **[Dataset Repositry](https://github.com/YonathanHH/Synthet
 
 ## 🚀 Demo
 
-You can try the deployed app here: **[Streamlit App](YOUR_STREAMLIT_LINK_HERE)**
+You can try the deployed app here: **[Streamlit App](https://geothermalpp.streamlit.app/)**
 
 ## 📓 Notebooks
 
