@@ -4,6 +4,8 @@ This repository contains the **Geothermal Power Output Predictor**, a Streamlit 
 
 Find my dataset here **[Dataset Repositry](https://github.com/YonathanHH/Synthetic-Geothermal-Dataset)**
 
+<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/ecd8b4ea-b24c-473c-b5ea-cb85682a2745" />
+
 ## ✨ Highlights
 
 - Interactive **Streamlit app** for predicting geothermal power output.
